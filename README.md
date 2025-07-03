@@ -17,14 +17,9 @@
 ## 📌 Notable Projects  
 
 🐍 **[Dev Talker's ](https://github.com/Ritz605)** – A Q&A site built using Angular and Spring Boot, featuring voting, commenting, and an edit review system.  
-
----
-
-## 🚀 Currently Working On  
-
 - 🌱 WILDGUARD AI – Refining ML models for better wildlife predictions.  
-
 ---
+
 
 ## 🌎 Connect With Me  
 
