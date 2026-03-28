@@ -7,15 +7,15 @@
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** Angular, React, HTML, CSS, JavaScript  
-- **Backend:** Spring Boot, Django, REST APIs  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node, Spring Boot, REST APIs  
 - **Databases:** MySQL, PostgreSQL
-- **Other:** Machine Learning, Data Analysis, JWT Authentication  
+- **Other:** GCP, LLM, Machine Learning, Data Analysis, JWT Authentication  
 
 ---
 
 ## 📌 Notable Projects  
-
+ **[Mini Sports Platform](https://github.com/Ritz605)** – Crud app using express, node, react, tailwind css
 🐍 **[Dev Talker's ](https://github.com/Ritz605)** – A Q&A site built using Angular and Spring Boot, featuring voting, commenting, and an edit review system.  
 - 🌱 WILDGUARD AI – Refining ML models for better wildlife predictions.  
 ---
